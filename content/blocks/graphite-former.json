@@ -11,12 +11,11 @@
 "consumes":
 {"power": 4,
  "liquid":
- {"liquid": "water",
+ {"liquid": "oil",
   "amount": 0.2 },
  "items":
  {"items": [
-            coal/7,
-            spore-pod/5
+            coal/10
            ]
  }
 },
