@@ -1,0 +1,34 @@
+{
+"type": "GenericCrafter",
+"size": 4,
+"health": 1200,
+"craftTime": 60,
+"itemCapacity": 50,
+"crafEffect": "pulverize",
+"hasLiquids": true,
+"hasPower": true,
+"hasItems": true,
+"consumes":
+{"power": 4,
+ "liquid":
+ {"liquid": "water",
+  "amount": 0.35 },
+ "items":
+ {"items": [
+            coal/15,
+            spore-pod/5
+           ]
+ }
+},
+"liquidCapacity": 1,
+"outputItem": graphite/30,
+"research": "multi-press",
+"requirements":
+[ silicon/200,
+  thorium/150,
+  graphite/200,
+  plastanium/150,
+  metaglass/150
+]
+"category": "crafting"
+}
