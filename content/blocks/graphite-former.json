@@ -2,7 +2,7 @@
 "type": "GenericCrafter",
 "size": 4,
 "health": 1200,
-"craftTime": 60,
+"craftTime": 240,
 "itemCapacity": 50,
 "crafEffect": "pulverize",
 "hasLiquids": true,
@@ -12,7 +12,7 @@
 {"power": 4,
  "liquid":
  {"liquid": "water",
-  "amount": 0.27 },
+  "amount": 0.2 },
  "items":
  {"items": [
             coal/7,
@@ -20,8 +20,7 @@
            ]
  }
 },
-"liquidCapacity": 1,
-"outputItem": graphite/20,
+"outputItem": graphite/25,
 "research": "multi-press",
 "requirements":
 [ silicon/200,
