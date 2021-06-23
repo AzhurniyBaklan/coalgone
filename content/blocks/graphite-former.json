@@ -12,16 +12,16 @@
 {"power": 4,
  "liquid":
  {"liquid": "water",
-  "amount": 0.35 },
+  "amount": 0.27 },
  "items":
  {"items": [
-            coal/15,
+            coal/7,
             spore-pod/5
            ]
  }
 },
 "liquidCapacity": 1,
-"outputItem": graphite/30,
+"outputItem": graphite/20,
 "research": "multi-press",
 "requirements":
 [ silicon/200,
