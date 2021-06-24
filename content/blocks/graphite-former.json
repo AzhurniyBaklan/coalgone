@@ -4,6 +4,8 @@
 "health": 1200,
 "craftTime": 240,
 "itemCapacity": 50,
+"ambientSound": "smelter",
+"ambientSoundVolume": 0.03,
 "craftEffect": "pulverizeMedium",
 "hasLiquids": true,
 "hasPower": true,

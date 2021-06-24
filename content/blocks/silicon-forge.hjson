@@ -1,0 +1,42 @@
+{
+"type": "GenericSmelter",
+"craftEffect": {
+  "type": "ParticleEffect",
+  "lifetime": 10,
+  "length": 8,
+  "colorTo": ffffff
+},
+"size": 4,
+"health": 1200,
+"ambientSound": "smelter",
+"ambientSoundVolume": 0.1,
+"craftTime": 240,
+"itemCapacity": 50,
+"hasLiquids": true,
+"hasPower": true,
+"hasItems": true,
+"consumes":
+{"power": 6,
+ "liquid":
+ { "liquid": "slag",
+   "amount": 0.4 },
+ "items":
+ { "items": [
+            "coal/16",
+            "sand/20",
+            "pyratite/2"
+           ]
+ }
+}
+"outputItem": "silicon/32",
+"research": "silicon-crucible",
+"requirements":
+[ "surge-alloy/180",
+  "plastanium/150",
+  "lead/250",
+  "silicon/250",
+  "graphite/200",
+  "metaglass/150"
+],
+"category": "crafting"
+}
