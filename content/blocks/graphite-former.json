@@ -4,7 +4,7 @@
 "health": 1200,
 "craftTime": 240,
 "itemCapacity": 50,
-"crafEffect": "pulverize",
+"craftEffect": "pulverizeMedium",
 "hasLiquids": true,
 "hasPower": true,
 "hasItems": true,
